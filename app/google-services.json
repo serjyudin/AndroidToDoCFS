@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "833566171728",
+    "firebase_url": "https://todocfs-64b95.firebaseio.com",
+    "project_id": "todocfs-64b95",
+    "storage_bucket": "todocfs-64b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833566171728:android:8f4142af135b7946",
+        "android_client_info": {
+          "package_name": "com.example.rivka.todocfs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833566171728-5f2n9u1d8e6rv8dapvkgkmmgq6g2g6sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfxQjrzyd_ZUGkptXt9JYT_eIQnusIKrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
